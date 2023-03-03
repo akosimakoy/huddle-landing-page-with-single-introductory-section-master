@@ -56,6 +56,7 @@ main {
     margin-block-end: 25px;
     font-family: 'Poppins', sans-serif;
     font-weight: 600;
+    max-width: 20ch;
 }
 .hero_desc-p{
     font-size: 1em;
@@ -151,6 +152,7 @@ footer {
     }
     .hero_desc-title {
         letter-spacing: 0;
+        margin-inline: auto;
     }
     .hero_desc-p {
         font-size: 15px;
